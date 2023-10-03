@@ -1,0 +1,78 @@
+[
+    {
+        "id": "59338",
+        "title": "Introduction",
+        "description": "\u003cp\u003eIn this module, we introduce the course and agenda\u003c/p\u003e",
+        "steps": [
+            {
+                "id": "386567",
+                "prompt": null,
+                "isOptional": true,
+                "activities": [
+                    {
+                        "id": "379215",
+                        "href": null,
+                        "isLocked": false,
+                        "duration": 55000,
+                        "title": "Course Introduction",
+                        "type": "video",
+                        "isComplete": false,
+                        "inProgress": false,
+                        "score": null
+                    }
+                ],
+                "isComplete": false,
+                "allActivitiesRequired": false
+            }
+        ],
+        "expanded": false
+    },
+    {
+        "id": "59339",
+        "title": "Introduction to Building Batch Data Pipelines",
+        "description": "\u003cp\u003eThis module reviews different methods of data loading: EL, ELT and ETL and when to use what\u003c/p\u003e",
+        "steps": [
+            {
+                "id": "386568",
+                "prompt": null,
+                "isOptional": true,
+                "activities": [
+                    {
+                        "id": "379216",
+                        "href": null,
+                        "isLocked": false,
+                        "duration": 69000,
+                        "title": "Module introduction",
+                        "type": "video",
+                        "isComplete": false,
+                        "inProgress": false,
+                        "score": null
+                    }
+                ],
+                "isComplete": false,
+                "allActivitiesRequired": false
+            },
+            {
+                "id": "386569",
+                "prompt": null,
+                "isOptional": true,
+                "activities": [
+                    {
+                        "id": "379217",
+                        "href": null,
+                        "isLocked": false,
+                        "duration": 220000,
+                        "title": "EL, ELT, ETL",
+                        "type": "video",
+                        "isComplete": false,
+                        "inProgress": false,
+                        "score": null
+                    }
+                ],
+                "isComplete": false,
+                "allActivitiesRequired": false
+            }
+        ],
+        "expanded": false
+    }
+]
